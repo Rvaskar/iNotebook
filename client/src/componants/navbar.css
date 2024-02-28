@@ -1,0 +1,50 @@
+.addContainer{
+    box-shadow: rgb(255, 255, 255) 0px 7px 29px 0px;
+    border-radius: 1rem;
+    padding: 1rem;
+    backdrop-filter: blur(2px);
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+.addContainer2{
+    box-shadow: rgb(255, 255, 255) 0px 2px 8px 0px;
+    border-radius: 1rem;
+    padding: 1rem;
+    backdrop-filter: blur(2.5px);
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+.addContainer3{
+    box-shadow: rgb(255, 255, 255) 0px 2px 8px 0px;
+    border-radius: 1rem;
+    backdrop-filter: blur(1rem);
+    padding: 1rem;
+    line-height: 1.7;
+    text-align: center;
+    width: 55%;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+.addContainer3 h1{
+    padding: 7px 0;
+}
+
+.circle{
+    background-color: #0d6efd;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 50% 50%;
+    -webkit-border-radius: 50% 50%;
+    -moz-border-radius: 50% 50%;
+    -ms-border-radius: 50% 50%;
+    -o-border-radius: 50% 50%;
+}
+.circle:hover{
+    background-color: #0e61dd;
+}
